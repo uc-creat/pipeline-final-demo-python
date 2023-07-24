@@ -12,6 +12,5 @@ the integers -> 1,4,10,2  forms a peak, while
 array = [1,2,3,3,4,0,10,6,5,-1,-3,2,3]
 
 1. Sample output:
-
 6 
 <!-- 0,10,6,5,-1,-3 -->
